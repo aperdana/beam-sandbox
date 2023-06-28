@@ -1,4 +1,4 @@
-# dana-beam-sandbox
+# beam-sandbox
 
 Run pubsub emulator
 
